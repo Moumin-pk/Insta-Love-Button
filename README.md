@@ -19,7 +19,7 @@ This project recreates the iconic Instagram-like heart button animation. When yo
 3. Double-tap anywhere on the image to make the heart icon appear and disappear magically. 💫
 
 ## 🌐 Demo
-Want to see it in action? Click the button below to try the demo now! 👇
+Want to see it in action? Click the button below to try the demo now! 👇    
 [Demo](https://moumin-pk.github.io/Insta-Love-Button/)
 
 
